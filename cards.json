@@ -187,7 +187,7 @@
     "set": "Phantom Forces",
     "number": "82/119",
     "type": "Normal",
-    "image": null
+    "image": "images/card-019.webp"
   },
   {
     "id": 20,
@@ -257,7 +257,7 @@
     "set": "BREAKthrough",
     "number": "125/162",
     "type": "Normal",
-    "image": null
+    "image": "images/card-026.webp"
   },
   {
     "id": 27,
@@ -548,5 +548,305 @@
     "number": "003/189",
     "type": "Grass",
     "image": "images/card-055.png"
+  },
+  {
+    "id": 56,
+    "name": "Yanmega",
+    "hp": 120,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "007/189",
+    "type": "Grass",
+    "image": "images/card-056.webp"
+  },
+  {
+    "id": 57,
+    "name": "Rowlet",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "019/189",
+    "type": "Grass",
+    "image": "images/card-057.webp"
+  },
+  {
+    "id": 58,
+    "name": "Hisuian Voltorb",
+    "hp": 50,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "002/189",
+    "type": "Grass",
+    "image": "images/card-058.webp"
+  },
+  {
+    "id": 59,
+    "name": "Kricketot",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "009/189",
+    "type": "Grass",
+    "image": "images/card-059.webp"
+  },
+  {
+    "id": 60,
+    "name": "Combee",
+    "hp": 50,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "011/189",
+    "type": "Grass",
+    "image": "images/card-060.webp"
+  },
+  {
+    "id": 61,
+    "name": "Yanma",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "006/189",
+    "type": "Grass",
+    "image": "images/card-061.webp"
+  },
+  {
+    "id": 62,
+    "name": "Combee",
+    "hp": 50,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "011/189",
+    "type": "Grass",
+    "image": "images/card-062.webp"
+  },
+  {
+    "id": 63,
+    "name": "Durant",
+    "hp": 110,
+    "finish": "Regular",
+    "set": "Silver Tempest",
+    "number": "013/195",
+    "type": "Grass",
+    "image": "images/card-063.webp"
+  },
+  {
+    "id": 64,
+    "name": "Kricketot",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "009/189",
+    "type": "Grass",
+    "image": "images/card-064.webp"
+  },
+  {
+    "id": 65,
+    "name": "Scyther",
+    "hp": 90,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "004/189",
+    "type": "Grass",
+    "image": "images/card-065.webp"
+  },
+  {
+    "id": 66,
+    "name": "Rowlet",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "019/189",
+    "type": "Grass",
+    "image": "images/card-066.webp"
+  },
+  {
+    "id": 67,
+    "name": "Heracross",
+    "hp": 110,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "008/189",
+    "type": "Grass",
+    "image": "images/card-067.webp"
+  },
+  {
+    "id": 68,
+    "name": "Weepinbell",
+    "hp": 80,
+    "finish": "Regular",
+    "set": "Guardians Rising",
+    "number": "002/145",
+    "type": "Grass",
+    "image": "images/card-068.webp"
+  },
+  {
+    "id": 69,
+    "name": "Heracross",
+    "hp": 110,
+    "finish": "Regular",
+    "set": "Burning Shadows",
+    "number": "011/147",
+    "type": "Grass",
+    "image": "images/card-069.webp"
+  },
+  {
+    "id": 70,
+    "name": "Gloom",
+    "hp": 80,
+    "finish": "Regular",
+    "set": "Undaunted",
+    "number": "027/090",
+    "type": "Grass",
+    "image": "images/card-070.webp"
+  },
+  {
+    "id": 71,
+    "name": "Tsareena",
+    "hp": 140,
+    "finish": "Regular",
+    "set": "Celestial Storm",
+    "number": "015/168",
+    "type": "Grass",
+    "image": "images/card-071.webp"
+  },
+  {
+    "id": 72,
+    "name": "Masquerain",
+    "hp": 90,
+    "finish": "Regular",
+    "set": "Sun & Moon",
+    "number": "008/149",
+    "type": "Grass",
+    "image": "images/card-072.webp"
+  },
+  {
+    "id": 73,
+    "name": "Pinsir",
+    "hp": 100,
+    "finish": "Regular",
+    "set": "BREAKthrough",
+    "number": "003/162",
+    "type": "Grass",
+    "image": "images/card-073.webp"
+  },
+  {
+    "id": 74,
+    "name": "Fomantis",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Sun & Moon",
+    "number": "014/149",
+    "type": "Grass",
+    "image": "images/card-074.webp"
+  },
+  {
+    "id": 75,
+    "name": "Parasect",
+    "hp": 110,
+    "finish": "Regular",
+    "set": "Sun & Moon",
+    "number": "005/149",
+    "type": "Grass",
+    "image": "images/card-075.webp"
+  },
+  {
+    "id": 76,
+    "name": "Ninjask",
+    "hp": 70,
+    "finish": "Regular",
+    "set": "Roaring Skies",
+    "number": "010/108",
+    "type": "Grass",
+    "image": "images/card-076.webp"
+  },
+  {
+    "id": 77,
+    "name": "Beedrill",
+    "hp": 120,
+    "finish": "Regular",
+    "set": "XY Evolutions",
+    "number": "007/108",
+    "type": "Grass",
+    "image": "images/card-077.webp"
+  },
+  {
+    "id": 78,
+    "name": "Tangrowth",
+    "hp": 130,
+    "finish": "Regular",
+    "set": "Steam Siege",
+    "number": "002/114",
+    "type": "Grass",
+    "image": "images/card-078.webp"
+  },
+  {
+    "id": 79,
+    "name": "Wimpod",
+    "hp": 70,
+    "finish": "Regular",
+    "set": "Burning Shadows",
+    "number": "016/147",
+    "type": "Grass",
+    "image": "images/card-079.webp"
+  },
+  {
+    "id": 80,
+    "name": "Venomoth",
+    "hp": 90,
+    "finish": "Reverse Holo",
+    "set": "Phantom Forces",
+    "number": "002/119",
+    "type": "Grass",
+    "image": "images/card-080.webp"
+  },
+  {
+    "id": 81,
+    "name": "Phantump",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Guardians Rising",
+    "number": "006/145",
+    "type": "Grass",
+    "image": "images/card-081.webp"
+  },
+  {
+    "id": 82,
+    "name": "Bellossom",
+    "hp": 120,
+    "finish": "Holo",
+    "set": "Ancient Origins",
+    "number": "004/098",
+    "type": "Grass",
+    "image": "images/card-082.webp"
+  },
+  {
+    "id": 83,
+    "name": "Bounsweet",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Sun & Moon",
+    "number": "018/149",
+    "type": "Grass",
+    "image": "images/card-083.webp"
+  },
+  {
+    "id": 84,
+    "name": "Masquerain",
+    "hp": 90,
+    "finish": "Reverse Holo",
+    "set": "Sun & Moon",
+    "number": "008/149",
+    "type": "Grass",
+    "image": "images/card-084.webp"
+  },
+  {
+    "id": 85,
+    "name": "Weedle",
+    "hp": 40,
+    "finish": "Reverse Holo",
+    "set": "XY Evolutions",
+    "number": "005/108",
+    "type": "Grass",
+    "image": "images/card-085.webp"
   }
 ]
