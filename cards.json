@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "name": "Dunsparce",
+    "hp": 70,
+    "finish": "Reverse Holo",
+    "set": "Journey Together",
+    "number": "120/159",
+    "type": "Normal",
+    "image": "images/card-001.png"
+  },
+  {
+    "id": 2,
+    "name": "Noibat",
+    "hp": 60,
+    "finish": "Reverse Holo",
+    "set": "Journey Together",
+    "number": "127/159",
+    "type": "Normal",
+    "image": "images/card-002.png"
+  },
+  {
+    "id": 3,
+    "name": "Hop’s Wooloo",
+    "hp": 70,
+    "finish": "Regular",
+    "set": "Journey Together",
+    "number": "135/159",
+    "type": "Normal",
+    "image": "images/card-003.png"
+  },
+  {
+    "id": 4,
+    "name": "Bibarel",
+    "hp": 90,
+    "finish": "Regular",
+    "set": "Supreme Victors",
+    "number": "51/147",
+    "type": "Normal",
+    "image": "images/card-004.png"
+  },
+  {
+    "id": 5,
+    "name": "Slakoth",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Furious Fists",
+    "number": "81/111",
+    "type": "Normal",
+    "image": "images/card-005.png"
+  },
+  {
+    "id": 6,
+    "name": "Meowth",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "BREAKthrough",
+    "number": "114/162",
+    "type": "Normal",
+    "image": "images/card-006.png"
+  },
+  {
+    "id": 7,
+    "name": "Swablu",
+    "hp": 40,
+    "finish": "Regular",
+    "set": "BREAKthrough",
+    "number": "124/162",
+    "type": "Normal",
+    "image": "images/card-007.png"
+  },
+  {
+    "id": 8,
+    "name": "Furfrou",
+    "hp": 90,
+    "finish": "Holo",
+    "set": "XY",
+    "number": "114/146",
+    "type": "Normal",
+    "image": "images/card-008.png"
+  },
+  {
+    "id": 9,
+    "name": "Pidgey",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Flashfire",
+    "number": "75/106",
+    "type": "Normal",
+    "image": "images/card-009.png"
+  },
+  {
+    "id": 10,
+    "name": "Persian",
+    "hp": 90,
+    "finish": "Regular",
+    "set": "Ancient Origins",
+    "number": "62/98",
+    "type": "Normal",
+    "image": "images/card-010.png"
+  },
+  {
+    "id": 11,
+    "name": "Pidgeotto",
+    "hp": 80,
+    "finish": "Regular",
+    "set": "Flashfire",
+    "number": "76/106",
+    "type": "Normal",
+    "image": "images/card-011.png"
+  },
+  {
+    "id": 12,
+    "name": "Fearow",
+    "hp": 90,
+    "finish": "Regular",
+    "set": "Phantom Forces",
+    "number": "79/119",
+    "type": "Normal",
+    "image": "images/card-012.png"
+  },
+  {
+    "id": 13,
+    "name": "Bewear",
+    "hp": 130,
+    "finish": "Regular",
+    "set": "Guardians Rising",
+    "number": "113/145",
+    "type": "Normal",
+    "image": "images/card-013.png"
+  },
+  {
+    "id": 14,
+    "name": "Herdier",
+    "hp": 90,
+    "finish": "Regular",
+    "set": "Sun & Moon",
+    "number": "104/149",
+    "type": "Normal",
+    "image": "images/card-014.png"
+  },
+  {
+    "id": 15,
+    "name": "Stufful",
+    "hp": 70,
+    "finish": "Regular",
+    "set": "Guardians Rising",
+    "number": "112/145",
+    "type": "Normal",
+    "image": "images/card-015.png"
+  },
+  {
+    "id": 16,
+    "name": "Spearow",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Roaring Skies",
+    "number": "65/108",
+    "type": "Normal",
+    "image": "images/card-016.png"
+  },
+  {
+    "id": 17,
+    "name": "Aipom",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Steam Siege",
+    "number": "90/114",
+    "type": "Normal",
+    "image": "images/card-017.png"
+  },
+  {
+    "id": 18,
+    "name": "Fletchinder",
+    "hp": 70,
+    "finish": "Regular",
+    "set": "Guardians Rising",
+    "number": "110/145",
+    "type": "Normal",
+    "image": "images/card-018.png"
+  },
+  {
+    "id": 19,
+    "name": "Girafarig",
+    "hp": 90,
+    "finish": "Reverse Holo",
+    "set": "Phantom Forces",
+    "number": "82/119",
+    "type": "Normal",
+    "image": null
+  },
+  {
+    "id": 20,
+    "name": "Pikipek",
+    "hp": 50,
+    "finish": "Regular",
+    "set": "Sun & Moon",
+    "number": "106/149",
+    "type": "Normal",
+    "image": "images/card-020.png"
+  },
+  {
+    "id": 21,
+    "name": "Rattata",
+    "hp": 30,
+    "finish": "Regular",
+    "set": "BREAKpoint",
+    "number": "87/122",
+    "type": "Normal",
+    "image": "images/card-021.png"
+  },
+  {
+    "id": 22,
+    "name": "Fletchling",
+    "hp": 40,
+    "finish": "Reverse Holo",
+    "set": "Steam Siege",
+    "number": "94/114",
+    "type": "Normal",
+    "image": "images/card-022.png"
+  },
+  {
+    "id": 23,
+    "name": "Eevee",
+    "hp": 50,
+    "finish": "Regular",
+    "set": "Furious Fists",
+    "number": "80/111",
+    "type": "Normal",
+    "image": "images/card-023.png"
+  },
+  {
+    "id": 24,
+    "name": "Spearow",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Sun & Moon",
+    "number": "97/149",
+    "type": "Normal",
+    "image": "images/card-024.png"
+  },
+  {
+    "id": 25,
+    "name": "Bidoof",
+    "hp": 70,
+    "finish": "Regular",
+    "set": "Primal Clash",
+    "number": "117/160",
+    "type": "Normal",
+    "image": "images/card-025.png"
+  },
+  {
+    "id": 26,
+    "name": "Starly",
+    "hp": 50,
+    "finish": "Regular",
+    "set": "BREAKthrough",
+    "number": "125/162",
+    "type": "Normal",
+    "image": null
+  },
+  {
+    "id": 27,
+    "name": "Pikipek",
+    "hp": 60,
+    "finish": "Holo",
+    "set": "Sun & Moon Promos",
+    "number": "SM07",
+    "type": "Normal",
+    "image": "images/card-027.png"
+  },
+  {
+    "id": 28,
+    "name": "Hawlucha",
+    "hp": 80,
+    "finish": "Regular",
+    "set": "Steam Siege",
+    "number": "97/114",
+    "type": "Normal",
+    "image": "images/card-028.png"
+  },
+  {
+    "id": 29,
+    "name": "Eevee",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Plasma Freeze",
+    "number": "89/116",
+    "type": "Normal",
+    "image": "images/card-029.png"
+  },
+  {
+    "id": 30,
+    "name": "Furfrou",
+    "hp": 90,
+    "finish": "Regular",
+    "set": "Chilling Reign",
+    "number": "126/198",
+    "type": "Normal",
+    "image": "images/card-030.png"
+  },
+  {
+    "id": 31,
+    "name": "Ambipom",
+    "hp": 90,
+    "finish": "Regular",
+    "set": "Steam Siege",
+    "number": "91/114",
+    "type": "Normal",
+    "image": "images/card-031.png"
+  },
+  {
+    "id": 32,
+    "name": "Komala",
+    "hp": 80,
+    "finish": "Reverse Holo",
+    "set": "Guardians Rising",
+    "number": "114/145",
+    "type": "Normal",
+    "image": "images/card-032.png"
+  },
+  {
+    "id": 33,
+    "name": "Blissey",
+    "hp": 130,
+    "finish": "Holo",
+    "set": "Phantom Forces",
+    "number": "81/119",
+    "type": "Normal",
+    "image": "images/card-033.png"
+  },
+  {
+    "id": 34,
+    "name": "Eevee",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Sun & Moon",
+    "number": "101/149",
+    "type": "Normal",
+    "image": "images/card-034.png"
+  },
+  {
+    "id": 35,
+    "name": "Meowth",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Burning Shadows",
+    "number": "101/147",
+    "type": "Normal",
+    "image": "images/card-035.png"
+  },
+  {
+    "id": 36,
+    "name": "Hoothoot",
+    "hp": 50,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "120/189",
+    "type": "Normal",
+    "image": "images/card-036.png"
+  },
+  {
+    "id": 37,
+    "name": "Altaria",
+    "hp": 110,
+    "finish": "Regular",
+    "set": "Silver Tempest",
+    "number": "143/195",
+    "type": "Normal",
+    "image": "images/card-037.png"
+  },
+  {
+    "id": 38,
+    "name": "Teddiursa",
+    "hp": 70,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "122/189",
+    "type": "Normal",
+    "image": "images/card-038.png"
+  },
+  {
+    "id": 39,
+    "name": "Stantler",
+    "hp": 100,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "125/189",
+    "type": "Normal",
+    "image": "images/card-039.png"
+  },
+  {
+    "id": 40,
+    "name": "Chatot",
+    "hp": 70,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "129/189",
+    "type": "Normal",
+    "image": "images/card-040.png"
+  },
+  {
+    "id": 41,
+    "name": "Hoothoot",
+    "hp": 50,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "120/189",
+    "type": "Normal",
+    "image": "images/card-041.png"
+  },
+  {
+    "id": 42,
+    "name": "Glameow",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "127/189",
+    "type": "Normal",
+    "image": "images/card-042.png"
+  },
+  {
+    "id": 43,
+    "name": "Fletchling",
+    "hp": 40,
+    "finish": "Reverse Holo",
+    "set": "Silver Tempest",
+    "number": "150/195",
+    "type": "Normal",
+    "image": "images/card-043.png"
+  },
+  {
+    "id": 44,
+    "name": "Hoothoot",
+    "hp": 50,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "120/189",
+    "type": "Normal",
+    "image": "images/card-044.png"
+  },
+  {
+    "id": 45,
+    "name": "Eevee",
+    "hp": 50,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "119/189",
+    "type": "Normal",
+    "image": "images/card-045.png"
+  },
+  {
+    "id": 46,
+    "name": "Meowscarada",
+    "hp": 160,
+    "finish": "Holo (foil trim)",
+    "set": "Journey Together",
+    "number": "018/159",
+    "type": "Grass",
+    "image": "images/card-046.png"
+  },
+  {
+    "id": 47,
+    "name": "Applin",
+    "hp": 40,
+    "finish": "Regular",
+    "set": "Destined Rivals",
+    "number": "016/182",
+    "type": "Grass",
+    "image": "images/card-047.png"
+  },
+  {
+    "id": 48,
+    "name": "Yanma",
+    "hp": 70,
+    "finish": "Regular",
+    "set": "Destined Rivals",
+    "number": "002/182",
+    "type": "Grass",
+    "image": "images/card-048.png"
+  },
+  {
+    "id": 49,
+    "name": "Shaymin",
+    "hp": 80,
+    "finish": "Regular",
+    "set": "Destined Rivals",
+    "number": "010/182",
+    "type": "Grass",
+    "image": "images/card-049.png"
+  },
+  {
+    "id": 50,
+    "name": "Caterpie",
+    "hp": 50,
+    "finish": "Regular",
+    "set": "Journey Together",
+    "number": "001/159",
+    "type": "Grass",
+    "image": "images/card-050.png"
+  },
+  {
+    "id": 51,
+    "name": "Shelmet",
+    "hp": 70,
+    "finish": "Regular",
+    "set": "Journey Together",
+    "number": "012/159",
+    "type": "Grass",
+    "image": "images/card-051.png"
+  },
+  {
+    "id": 52,
+    "name": "Paras",
+    "hp": 70,
+    "finish": "Regular",
+    "set": "Journey Together",
+    "number": "004/159",
+    "type": "Grass",
+    "image": "images/card-052.png"
+  },
+  {
+    "id": 53,
+    "name": "Kricketot",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "009/189",
+    "type": "Grass",
+    "image": "images/card-053.png"
+  },
+  {
+    "id": 54,
+    "name": "Sunflora",
+    "hp": 90,
+    "finish": "Regular",
+    "set": "Silver Tempest",
+    "number": "006/195",
+    "type": "Grass",
+    "image": "images/card-054.png"
+  },
+  {
+    "id": 55,
+    "name": "Hisuian Electrode",
+    "hp": 90,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "003/189",
+    "type": "Grass",
+    "image": "images/card-055.png"
+  }
+]
