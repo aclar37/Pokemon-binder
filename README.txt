@@ -1,10 +1,10 @@
-Pokémon Digital Binder — 135 cards, with 135 physical-card photographs.
+Zar’s Pokémon Collection — Water Cards Update
 
-UPLOAD TO GITHUB PAGES
-Upload index.html, cards.json, .nojekyll, and the entire images folder into the ROOT of your GitHub repository.
-GitHub Settings > Pages > Deploy from a branch > main > /(root).
-Do not upload the ZIP itself as a single file; extract it first.
+Includes trimmed photos for cards #111–160, plus metadata for new cards #136–160.
 
-The site offers 9-pocket pages, continuous expansion sorting by collector number, name/HP sorting, type/finish filters, search, and a full-size swipe/arrow viewer.
+To update an existing 135-card website:
+1. Upload the images/ folder contents to the repository images/ folder (replace older files with the same names).
+2. Append the 25 records in cards-to-add.json to the existing cards.json array. Do not replace the existing cards.json with cards-to-add.json.
+3. Keep index.html and other existing files.
 
-IMPORTANT: Some metadata in the 111–135 batch is provisional, and two holo finishes are unverified. Review cards.json as needed. Existing catalog IDs 1–110 were preserved.
+#137 Brionne (Sun & Moon 040/149) and #140 Frogadier (BREAKthrough 047/162) are now included.
