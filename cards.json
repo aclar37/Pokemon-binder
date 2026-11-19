@@ -848,5 +848,255 @@
     "number": "005/108",
     "type": "Grass",
     "image": "images/card-085.webp"
+  },
+  {
+    "id": 86,
+    "name": "Gloom",
+    "hp": 80,
+    "finish": "Regular",
+    "set": "Unverified",
+    "number": "",
+    "type": "Grass",
+    "image": "images/card-086.webp"
+  },
+  {
+    "id": 87,
+    "name": "Deerling",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Unverified",
+    "number": "",
+    "type": "Grass",
+    "image": "images/card-087.webp"
+  },
+  {
+    "id": 88,
+    "name": "Cascoon",
+    "hp": 80,
+    "finish": "Regular",
+    "set": "Unverified",
+    "number": "",
+    "type": "Grass",
+    "image": "images/card-088.webp"
+  },
+  {
+    "id": 89,
+    "name": "Nincada",
+    "hp": 40,
+    "finish": "Regular",
+    "set": "Unverified",
+    "number": "",
+    "type": "Grass",
+    "image": "images/card-089.webp"
+  },
+  {
+    "id": 90,
+    "name": "Metapod",
+    "hp": 80,
+    "finish": "Regular",
+    "set": "Unverified",
+    "number": "",
+    "type": "Grass",
+    "image": "images/card-090.webp"
+  },
+  {
+    "id": 91,
+    "name": "Tangela",
+    "hp": 80,
+    "finish": "Regular",
+    "set": "Unverified",
+    "number": "",
+    "type": "Grass",
+    "image": "images/card-091.webp"
+  },
+  {
+    "id": 92,
+    "name": "Tangela",
+    "hp": 80,
+    "finish": "Regular",
+    "set": "Unverified",
+    "number": "",
+    "type": "Grass",
+    "image": "images/card-092.webp"
+  },
+  {
+    "id": 93,
+    "name": "Tropius",
+    "hp": 90,
+    "finish": "Regular",
+    "set": "Unverified",
+    "number": "",
+    "type": "Grass",
+    "image": "images/card-093.webp"
+  },
+  {
+    "id": 94,
+    "name": "Caterpie",
+    "hp": 50,
+    "finish": "Regular",
+    "set": "Unverified",
+    "number": "",
+    "type": "Grass",
+    "image": "images/card-094.webp"
+  },
+  {
+    "id": 95,
+    "name": "Ariados",
+    "hp": 70,
+    "finish": "Regular",
+    "set": "Unverified",
+    "number": "",
+    "type": "Grass",
+    "image": "images/card-095.webp"
+  },
+  {
+    "id": 96,
+    "name": "Deerling",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Emerging Powers",
+    "number": "011/098",
+    "type": "Grass",
+    "image": "images/card-096.webp"
+  },
+  {
+    "id": 97,
+    "name": "Vileplume",
+    "hp": 130,
+    "finish": "Regular",
+    "set": "Ancient Origins",
+    "number": "003/098",
+    "type": "Grass",
+    "image": "images/card-097.webp"
+  },
+  {
+    "id": 98,
+    "name": "Hoppip",
+    "hp": 40,
+    "finish": "Regular",
+    "set": "Steam Siege",
+    "number": "003/114",
+    "type": "Grass",
+    "image": "images/card-098.webp"
+  },
+  {
+    "id": 99,
+    "name": "Carnivine",
+    "hp": 80,
+    "finish": "Regular",
+    "set": "Platinum",
+    "number": "043/127",
+    "type": "Grass",
+    "image": "images/card-099.webp"
+  },
+  {
+    "id": 100,
+    "name": "Venonat",
+    "hp": 60,
+    "finish": "Reverse Holo",
+    "set": "Phantom Forces",
+    "number": "001/119",
+    "type": "Grass",
+    "image": "images/card-100.webp"
+  },
+  {
+    "id": 101,
+    "name": "Gorebyss",
+    "hp": 90,
+    "finish": "Trim Holo",
+    "set": "Destined Rivals",
+    "number": "056/182",
+    "type": "Water",
+    "image": "images/card-101.webp"
+  },
+  {
+    "id": 102,
+    "name": "Gorebyss",
+    "hp": 90,
+    "finish": "Holo",
+    "set": "Destined Rivals",
+    "number": "056/182",
+    "type": "Water",
+    "image": "images/card-102.webp"
+  },
+  {
+    "id": 103,
+    "name": "Milotic (Cynthia's)",
+    "hp": 130,
+    "finish": "Regular",
+    "set": "Destined Rivals",
+    "number": "053/182",
+    "type": "Water",
+    "image": "images/card-103.webp"
+  },
+  {
+    "id": 104,
+    "name": "Feebas (Cynthia's)",
+    "hp": 30,
+    "finish": "Regular",
+    "set": "Destined Rivals",
+    "number": "052/182",
+    "type": "Water",
+    "image": "images/card-104.webp"
+  },
+  {
+    "id": 105,
+    "name": "Cetoddle",
+    "hp": 100,
+    "finish": "Regular",
+    "set": "Destined Rivals",
+    "number": "064/182",
+    "type": "Water",
+    "image": "images/card-105.webp"
+  },
+  {
+    "id": 106,
+    "name": "Lapras (Misty's)",
+    "hp": 110,
+    "finish": "Regular",
+    "set": "Destined Rivals",
+    "number": "050/182",
+    "type": "Water",
+    "image": "images/card-106.webp"
+  },
+  {
+    "id": 107,
+    "name": "Abomasnow",
+    "hp": 150,
+    "finish": "Regular",
+    "set": "Destined Rivals",
+    "number": "060/182",
+    "type": "Water",
+    "image": "images/card-107.webp"
+  },
+  {
+    "id": 108,
+    "name": "Wingull",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Journey Together",
+    "number": "038/159",
+    "type": "Water",
+    "image": "images/card-108.webp"
+  },
+  {
+    "id": 109,
+    "name": "Krabby",
+    "hp": 50,
+    "finish": "Regular",
+    "set": "Fossil",
+    "number": "051/062",
+    "type": "Water",
+    "image": "images/card-109.webp"
+  },
+  {
+    "id": 110,
+    "name": "Psyduck",
+    "hp": 50,
+    "finish": "Regular",
+    "set": "Team Rocket",
+    "number": "065/082",
+    "type": "Water",
+    "image": "images/card-110.webp"
   }
 ]
