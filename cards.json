@@ -1098,5 +1098,255 @@
     "number": "065/082",
     "type": "Water",
     "image": "images/card-110.webp"
+  },
+  {
+    "id": 111,
+    "name": "Drizzile",
+    "hp": 90,
+    "finish": "Regular",
+    "set": "Chilling Reign",
+    "number": "042/198",
+    "type": "Water",
+    "image": "images/card-111.webp"
+  },
+  {
+    "id": 112,
+    "name": "Dewott",
+    "hp": 90,
+    "finish": "Regular",
+    "set": "Boundaries Crossed",
+    "number": "040/149",
+    "type": "Water",
+    "image": "images/card-112.webp"
+  },
+  {
+    "id": 113,
+    "name": "Sneasel",
+    "hp": 70,
+    "finish": "Regular",
+    "set": "Chilling Reign",
+    "number": "030/198",
+    "type": "Water",
+    "image": "images/card-113.webp"
+  },
+  {
+    "id": 114,
+    "name": "Wingull",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Sun & Moon",
+    "number": "037/149",
+    "type": "Water",
+    "image": "images/card-114.webp"
+  },
+  {
+    "id": 115,
+    "name": "Poliwhirl",
+    "hp": 80,
+    "finish": "Regular",
+    "set": "Evolutions",
+    "number": "024/108",
+    "type": "Water",
+    "image": "images/card-115.webp"
+  },
+  {
+    "id": 116,
+    "name": "Magikarp",
+    "hp": 30,
+    "finish": "Regular",
+    "set": "Burning Shadows",
+    "number": "032/147",
+    "type": "Water",
+    "image": "images/card-116.webp"
+  },
+  {
+    "id": 117,
+    "name": "Shellos",
+    "hp": 70,
+    "finish": "Regular",
+    "set": "Steam Siege",
+    "number": "028/114",
+    "type": "Water",
+    "image": "images/card-117.webp"
+  },
+  {
+    "id": 118,
+    "name": "Feebas",
+    "hp": 30,
+    "finish": "Regular",
+    "set": "Flashfire",
+    "number": "022/106",
+    "type": "Water",
+    "image": "images/card-118.webp"
+  },
+  {
+    "id": 119,
+    "name": "Cloyster",
+    "hp": 80,
+    "finish": "Regular",
+    "set": "Secret Wonders",
+    "number": "047/132",
+    "type": "Water",
+    "image": "images/card-119.webp"
+  },
+  {
+    "id": 120,
+    "name": "Pyukumuku",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Sun & Moon",
+    "number": "047/149",
+    "type": "Water",
+    "image": "images/card-120.webp"
+  },
+  {
+    "id": 121,
+    "name": "Oshawott",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Water",
+    "image": "images/card-121.webp"
+  },
+  {
+    "id": 122,
+    "name": "Dewott",
+    "hp": 90,
+    "finish": "Regular",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Water",
+    "image": "images/card-122.webp"
+  },
+  {
+    "id": 123,
+    "name": "Squirtle",
+    "hp": 70,
+    "finish": "Regular",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Water",
+    "image": "images/card-123.webp"
+  },
+  {
+    "id": 124,
+    "name": "Froakie",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Water",
+    "image": "images/card-124.webp"
+  },
+  {
+    "id": 125,
+    "name": "Frillish",
+    "hp": 70,
+    "finish": "Regular",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Water",
+    "image": "images/card-125.webp"
+  },
+  {
+    "id": 126,
+    "name": "Poliwag",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Water",
+    "image": "images/card-126.webp"
+  },
+  {
+    "id": 127,
+    "name": "Finneon",
+    "hp": 50,
+    "finish": "Regular",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Water",
+    "image": "images/card-127.webp"
+  },
+  {
+    "id": 128,
+    "name": "Frogadier",
+    "hp": 90,
+    "finish": "Regular",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Water",
+    "image": "images/card-128.webp"
+  },
+  {
+    "id": 129,
+    "name": "Wailmer",
+    "hp": 120,
+    "finish": "Regular",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Water",
+    "image": "images/card-129.webp"
+  },
+  {
+    "id": 130,
+    "name": "Greninja",
+    "hp": 130,
+    "finish": "Regular",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Water",
+    "image": "images/card-130.webp"
+  },
+  {
+    "id": 131,
+    "name": "Samurott",
+    "hp": 140,
+    "finish": "Unverified",
+    "set": "Boundaries Crossed",
+    "number": "041/149",
+    "type": "Water",
+    "image": "images/card-131.webp"
+  },
+  {
+    "id": 132,
+    "name": "Tympole",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "BREAKpoint",
+    "number": "033/122",
+    "type": "Water",
+    "image": "images/card-132.webp"
+  },
+  {
+    "id": 133,
+    "name": "Seismitoad",
+    "hp": 150,
+    "finish": "Unverified",
+    "set": "BREAKpoint",
+    "number": "035/122",
+    "type": "Water",
+    "image": "images/card-133.webp"
+  },
+  {
+    "id": 134,
+    "name": "Alolan Vulpix",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Guardians Rising",
+    "number": "021/145",
+    "type": "Water",
+    "image": "images/card-134.webp"
+  },
+  {
+    "id": 135,
+    "name": "Cloyster",
+    "hp": 100,
+    "finish": "Regular",
+    "set": "BREAKpoint",
+    "number": "024/122",
+    "type": "Water",
+    "image": "images/card-135.webp"
   }
 ]

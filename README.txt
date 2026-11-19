@@ -1,5 +1,10 @@
-Pokémon Digital Binder — 110 cataloged physical cards, including 15 newly added Grass and 10 Water cards.
+Pokémon Digital Binder — 135 cards, with 135 physical-card photographs.
 
-GitHub Pages: upload index.html, cards.json, images/ and .nojekyll to your repository root; Settings > Pages > Deploy from branch > main > /(root).
+UPLOAD TO GITHUB PAGES
+Upload index.html, cards.json, .nojekyll, and the entire images folder into the ROOT of your GitHub repository.
+GitHub Settings > Pages > Deploy from a branch > main > /(root).
+Do not upload the ZIP itself as a single file; extract it first.
 
-Entries #086–#095 have expansion and collector number marked Unverified pending confirmation. Each physical duplicate has its own entry and image.
+The site offers 9-pocket pages, continuous expansion sorting by collector number, name/HP sorting, type/finish filters, search, and a full-size swipe/arrow viewer.
+
+IMPORTANT: Some metadata in the 111–135 batch is provisional, and two holo finishes are unverified. Review cards.json as needed. Existing catalog IDs 1–110 were preserved.
