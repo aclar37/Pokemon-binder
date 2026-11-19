@@ -1,5 +1,9 @@
-Zar’s Pokémon Collection — Midnight Edition
+# Zar’s Pokémon Collection — 160 cards
 
-Upload index.html, cards.json, .nojekyll and the images folder to the root of your GitHub Pages repository.
+GitHub Pages-ready static website. Upload the CONTENTS of this ZIP to your repository root, then enable GitHub Pages from main / (root).
 
-The website starts on a title page inside the binder. Next opens the first nine cards. Colors are fixed to midnight black, violet, purple and red; no visitor color controls.
+Default sort: National Pokédex number ascending. Additional sorts: descending Pokédex, expansion + collector number, HP, name, catalog order.
+
+All 160 physical-card images are included as WebP and automatically border-cropped where the card edges could be identified. The original image area is preserved for any card where automatic cropping could not be done confidently.
+
+To add new cards: add a JSON object to cards.json, with an incrementing id, Pokédex number, and image path.
