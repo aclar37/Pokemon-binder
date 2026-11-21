@@ -1998,5 +1998,205 @@
     "number": "074/195",
     "type": "Psychic",
     "image": "images/card-200.webp"
+  },
+  {
+    "id": 201,
+    "name": "Mareep",
+    "hp": 60,
+    "type": "Electric",
+    "set": "Steam Siege",
+    "number": "38/114",
+    "finish": "Regular",
+    "image": "images/card-201.webp"
+  },
+  {
+    "id": 202,
+    "name": "Electabuzz",
+    "hp": 80,
+    "type": "Electric",
+    "set": "Boundaries Crossed",
+    "number": "53/149",
+    "finish": "Regular",
+    "image": "images/card-202.webp"
+  },
+  {
+    "id": 203,
+    "name": "Togedemaru",
+    "hp": 70,
+    "type": "Electric",
+    "set": "Sun & Moon",
+    "number": "53/149",
+    "finish": "Regular",
+    "image": "images/card-203.webp"
+  },
+  {
+    "id": 204,
+    "name": "Flaaffy",
+    "hp": 90,
+    "type": "Electric",
+    "set": "Steam Siege",
+    "number": "39/114",
+    "finish": "Regular",
+    "image": "images/card-204.webp"
+  },
+  {
+    "id": 205,
+    "name": "Ampharos",
+    "hp": 140,
+    "type": "Electric",
+    "set": "Steam Siege",
+    "number": "40/114",
+    "finish": "Regular",
+    "image": "images/card-205.webp"
+  },
+  {
+    "id": 206,
+    "name": "Raichu",
+    "hp": 100,
+    "type": "Electric",
+    "set": "Evolutions",
+    "number": "36/108",
+    "finish": "Regular",
+    "image": "images/card-206.webp"
+  },
+  {
+    "id": 207,
+    "name": "Voltorb",
+    "hp": 60,
+    "type": "Electric",
+    "set": "Evolutions",
+    "number": "39/108",
+    "finish": "Regular",
+    "image": "images/card-207.webp"
+  },
+  {
+    "id": 208,
+    "name": "Stunfisk",
+    "hp": 90,
+    "type": "Electric",
+    "set": "Noble Victories",
+    "number": "42/101",
+    "finish": "Regular",
+    "image": "images/card-208.webp"
+  },
+  {
+    "id": 209,
+    "name": "Electabuzz",
+    "hp": 70,
+    "type": "Electric",
+    "set": "Evolutions",
+    "number": "41/108",
+    "finish": "Regular",
+    "image": "images/card-209.webp"
+  },
+  {
+    "id": 210,
+    "name": "Eelektross",
+    "hp": 140,
+    "type": "Electric",
+    "set": "Primal Clash",
+    "number": "65/160",
+    "finish": "Holo",
+    "image": "images/card-210.webp"
+  },
+  {
+    "id": 211,
+    "name": "Ethan’s Pichu",
+    "hp": 30,
+    "finish": "Regular",
+    "set": "Destined Rivals",
+    "number": "071/182",
+    "type": "Electric",
+    "image": "images/card-211.webp"
+  },
+  {
+    "id": 212,
+    "name": "Team Rocket’s Flaaffy",
+    "hp": 90,
+    "finish": "Regular",
+    "set": "Destined Rivals",
+    "number": "073/182",
+    "type": "Electric",
+    "image": "images/card-212.webp"
+  },
+  {
+    "id": 213,
+    "name": "Alolan Golem",
+    "hp": 180,
+    "finish": "Regular",
+    "set": "Journey Together",
+    "number": "046/159",
+    "type": "Electric",
+    "image": "images/card-213.webp"
+  },
+  {
+    "id": 214,
+    "name": "Manectric",
+    "hp": 90,
+    "finish": "Regular",
+    "set": "Dragons Exalted",
+    "number": "44/124",
+    "type": "Electric",
+    "image": "images/card-214.webp"
+  },
+  {
+    "id": 215,
+    "name": "Dedenne",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "BREAKthrough",
+    "number": "57/162",
+    "type": "Electric",
+    "image": "images/card-215.webp"
+  },
+  {
+    "id": 216,
+    "name": "Raichu",
+    "hp": 90,
+    "finish": "Regular",
+    "set": "Arceus",
+    "number": "27/99",
+    "type": "Electric",
+    "image": "images/card-216.webp"
+  },
+  {
+    "id": 217,
+    "name": "Togedemaru",
+    "hp": 80,
+    "finish": "Regular",
+    "set": "Burning Shadows",
+    "number": "47/147",
+    "type": "Electric",
+    "image": "images/card-217.webp"
+  },
+  {
+    "id": 218,
+    "name": "Chinchou",
+    "hp": 70,
+    "finish": "Regular",
+    "set": "Sun & Moon",
+    "number": "49/149",
+    "type": "Electric",
+    "image": "images/card-218.webp"
+  },
+  {
+    "id": 219,
+    "name": "Pikachu",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Boundaries Crossed",
+    "number": "50/149",
+    "type": "Electric",
+    "image": "images/card-219.webp"
+  },
+  {
+    "id": 220,
+    "name": "Pikachu Libre",
+    "hp": 80,
+    "finish": "Holo",
+    "set": "XY Trainer Kit",
+    "number": "30/30",
+    "type": "Electric",
+    "image": "images/card-220.webp"
   }
 ]
