@@ -7,8 +7,7 @@
     "set": "Journey Together",
     "number": "120/159",
     "type": "Normal",
-    "image": "images/card-001.webp",
-    "pokedex": 206
+    "image": "images/card-001.png"
   },
   {
     "id": 2,
@@ -18,8 +17,7 @@
     "set": "Journey Together",
     "number": "127/159",
     "type": "Normal",
-    "image": "images/card-002.webp",
-    "pokedex": 714
+    "image": "images/card-002.png"
   },
   {
     "id": 3,
@@ -29,8 +27,7 @@
     "set": "Journey Together",
     "number": "135/159",
     "type": "Normal",
-    "image": "images/card-003.webp",
-    "pokedex": 831
+    "image": "images/card-003.png"
   },
   {
     "id": 4,
@@ -40,8 +37,7 @@
     "set": "Supreme Victors",
     "number": "51/147",
     "type": "Normal",
-    "image": "images/card-004.webp",
-    "pokedex": 400
+    "image": "images/card-004.png"
   },
   {
     "id": 5,
@@ -51,8 +47,7 @@
     "set": "Furious Fists",
     "number": "81/111",
     "type": "Normal",
-    "image": "images/card-005.webp",
-    "pokedex": 287
+    "image": "images/card-005.png"
   },
   {
     "id": 6,
@@ -62,8 +57,7 @@
     "set": "BREAKthrough",
     "number": "114/162",
     "type": "Normal",
-    "image": "images/card-006.webp",
-    "pokedex": 52
+    "image": "images/card-006.png"
   },
   {
     "id": 7,
@@ -73,8 +67,7 @@
     "set": "BREAKthrough",
     "number": "124/162",
     "type": "Normal",
-    "image": "images/card-007.webp",
-    "pokedex": 333
+    "image": "images/card-007.png"
   },
   {
     "id": 8,
@@ -84,8 +77,7 @@
     "set": "XY",
     "number": "114/146",
     "type": "Normal",
-    "image": "images/card-008.webp",
-    "pokedex": 676
+    "image": "images/card-008.png"
   },
   {
     "id": 9,
@@ -95,8 +87,7 @@
     "set": "Flashfire",
     "number": "75/106",
     "type": "Normal",
-    "image": "images/card-009.webp",
-    "pokedex": 16
+    "image": "images/card-009.png"
   },
   {
     "id": 10,
@@ -106,8 +97,7 @@
     "set": "Ancient Origins",
     "number": "62/98",
     "type": "Normal",
-    "image": "images/card-010.webp",
-    "pokedex": 53
+    "image": "images/card-010.png"
   },
   {
     "id": 11,
@@ -117,8 +107,7 @@
     "set": "Flashfire",
     "number": "76/106",
     "type": "Normal",
-    "image": "images/card-011.webp",
-    "pokedex": 17
+    "image": "images/card-011.png"
   },
   {
     "id": 12,
@@ -128,8 +117,7 @@
     "set": "Phantom Forces",
     "number": "79/119",
     "type": "Normal",
-    "image": "images/card-012.webp",
-    "pokedex": 22
+    "image": "images/card-012.png"
   },
   {
     "id": 13,
@@ -139,8 +127,7 @@
     "set": "Guardians Rising",
     "number": "113/145",
     "type": "Normal",
-    "image": "images/card-013.webp",
-    "pokedex": 760
+    "image": "images/card-013.png"
   },
   {
     "id": 14,
@@ -150,8 +137,7 @@
     "set": "Sun & Moon",
     "number": "104/149",
     "type": "Normal",
-    "image": "images/card-014.webp",
-    "pokedex": 507
+    "image": "images/card-014.png"
   },
   {
     "id": 15,
@@ -161,8 +147,7 @@
     "set": "Guardians Rising",
     "number": "112/145",
     "type": "Normal",
-    "image": "images/card-015.webp",
-    "pokedex": 759
+    "image": "images/card-015.png"
   },
   {
     "id": 16,
@@ -172,8 +157,7 @@
     "set": "Roaring Skies",
     "number": "65/108",
     "type": "Normal",
-    "image": "images/card-016.webp",
-    "pokedex": 21
+    "image": "images/card-016.png"
   },
   {
     "id": 17,
@@ -183,8 +167,7 @@
     "set": "Steam Siege",
     "number": "90/114",
     "type": "Normal",
-    "image": "images/card-017.webp",
-    "pokedex": 190
+    "image": "images/card-017.png"
   },
   {
     "id": 18,
@@ -194,8 +177,7 @@
     "set": "Guardians Rising",
     "number": "110/145",
     "type": "Normal",
-    "image": "images/card-018.webp",
-    "pokedex": 662
+    "image": "images/card-018.png"
   },
   {
     "id": 19,
@@ -205,8 +187,7 @@
     "set": "Phantom Forces",
     "number": "82/119",
     "type": "Normal",
-    "image": "images/card-019.webp",
-    "pokedex": 203
+    "image": "images/card-019.webp"
   },
   {
     "id": 20,
@@ -216,8 +197,7 @@
     "set": "Sun & Moon",
     "number": "106/149",
     "type": "Normal",
-    "image": "images/card-020.webp",
-    "pokedex": 731
+    "image": "images/card-020.png"
   },
   {
     "id": 21,
@@ -227,8 +207,7 @@
     "set": "BREAKpoint",
     "number": "87/122",
     "type": "Normal",
-    "image": "images/card-021.webp",
-    "pokedex": 19
+    "image": "images/card-021.png"
   },
   {
     "id": 22,
@@ -238,8 +217,7 @@
     "set": "Steam Siege",
     "number": "94/114",
     "type": "Normal",
-    "image": "images/card-022.webp",
-    "pokedex": 661
+    "image": "images/card-022.png"
   },
   {
     "id": 23,
@@ -249,8 +227,7 @@
     "set": "Furious Fists",
     "number": "80/111",
     "type": "Normal",
-    "image": "images/card-023.webp",
-    "pokedex": 133
+    "image": "images/card-023.png"
   },
   {
     "id": 24,
@@ -260,8 +237,7 @@
     "set": "Sun & Moon",
     "number": "97/149",
     "type": "Normal",
-    "image": "images/card-024.webp",
-    "pokedex": 21
+    "image": "images/card-024.png"
   },
   {
     "id": 25,
@@ -271,8 +247,7 @@
     "set": "Primal Clash",
     "number": "117/160",
     "type": "Normal",
-    "image": "images/card-025.webp",
-    "pokedex": 399
+    "image": "images/card-025.png"
   },
   {
     "id": 26,
@@ -282,8 +257,7 @@
     "set": "BREAKthrough",
     "number": "125/162",
     "type": "Normal",
-    "image": "images/card-026.webp",
-    "pokedex": 396
+    "image": "images/card-026.webp"
   },
   {
     "id": 27,
@@ -293,8 +267,7 @@
     "set": "Sun & Moon Promos",
     "number": "SM07",
     "type": "Normal",
-    "image": "images/card-027.webp",
-    "pokedex": 731
+    "image": "images/card-027.png"
   },
   {
     "id": 28,
@@ -304,8 +277,7 @@
     "set": "Steam Siege",
     "number": "97/114",
     "type": "Normal",
-    "image": "images/card-028.webp",
-    "pokedex": 701
+    "image": "images/card-028.png"
   },
   {
     "id": 29,
@@ -315,8 +287,7 @@
     "set": "Plasma Freeze",
     "number": "89/116",
     "type": "Normal",
-    "image": "images/card-029.webp",
-    "pokedex": 133
+    "image": "images/card-029.png"
   },
   {
     "id": 30,
@@ -326,8 +297,7 @@
     "set": "Chilling Reign",
     "number": "126/198",
     "type": "Normal",
-    "image": "images/card-030.webp",
-    "pokedex": 676
+    "image": "images/card-030.png"
   },
   {
     "id": 31,
@@ -337,8 +307,7 @@
     "set": "Steam Siege",
     "number": "91/114",
     "type": "Normal",
-    "image": "images/card-031.webp",
-    "pokedex": 424
+    "image": "images/card-031.png"
   },
   {
     "id": 32,
@@ -348,8 +317,7 @@
     "set": "Guardians Rising",
     "number": "114/145",
     "type": "Normal",
-    "image": "images/card-032.webp",
-    "pokedex": 775
+    "image": "images/card-032.png"
   },
   {
     "id": 33,
@@ -359,8 +327,7 @@
     "set": "Phantom Forces",
     "number": "81/119",
     "type": "Normal",
-    "image": "images/card-033.webp",
-    "pokedex": 242
+    "image": "images/card-033.png"
   },
   {
     "id": 34,
@@ -370,8 +337,7 @@
     "set": "Sun & Moon",
     "number": "101/149",
     "type": "Normal",
-    "image": "images/card-034.webp",
-    "pokedex": 133
+    "image": "images/card-034.png"
   },
   {
     "id": 35,
@@ -381,8 +347,7 @@
     "set": "Burning Shadows",
     "number": "101/147",
     "type": "Normal",
-    "image": "images/card-035.webp",
-    "pokedex": 52
+    "image": "images/card-035.png"
   },
   {
     "id": 36,
@@ -392,8 +357,7 @@
     "set": "Astral Radiance",
     "number": "120/189",
     "type": "Normal",
-    "image": "images/card-036.webp",
-    "pokedex": 163
+    "image": "images/card-036.png"
   },
   {
     "id": 37,
@@ -403,8 +367,7 @@
     "set": "Silver Tempest",
     "number": "143/195",
     "type": "Normal",
-    "image": "images/card-037.webp",
-    "pokedex": 334
+    "image": "images/card-037.png"
   },
   {
     "id": 38,
@@ -414,8 +377,7 @@
     "set": "Astral Radiance",
     "number": "122/189",
     "type": "Normal",
-    "image": "images/card-038.webp",
-    "pokedex": 216
+    "image": "images/card-038.png"
   },
   {
     "id": 39,
@@ -425,8 +387,7 @@
     "set": "Astral Radiance",
     "number": "125/189",
     "type": "Normal",
-    "image": "images/card-039.webp",
-    "pokedex": 234
+    "image": "images/card-039.png"
   },
   {
     "id": 40,
@@ -436,8 +397,7 @@
     "set": "Astral Radiance",
     "number": "129/189",
     "type": "Normal",
-    "image": "images/card-040.webp",
-    "pokedex": 441
+    "image": "images/card-040.png"
   },
   {
     "id": 41,
@@ -447,8 +407,7 @@
     "set": "Astral Radiance",
     "number": "120/189",
     "type": "Normal",
-    "image": "images/card-041.webp",
-    "pokedex": 163
+    "image": "images/card-041.png"
   },
   {
     "id": 42,
@@ -458,8 +417,7 @@
     "set": "Astral Radiance",
     "number": "127/189",
     "type": "Normal",
-    "image": "images/card-042.webp",
-    "pokedex": 431
+    "image": "images/card-042.png"
   },
   {
     "id": 43,
@@ -469,8 +427,7 @@
     "set": "Silver Tempest",
     "number": "150/195",
     "type": "Normal",
-    "image": "images/card-043.webp",
-    "pokedex": 661
+    "image": "images/card-043.png"
   },
   {
     "id": 44,
@@ -480,8 +437,7 @@
     "set": "Astral Radiance",
     "number": "120/189",
     "type": "Normal",
-    "image": "images/card-044.webp",
-    "pokedex": 163
+    "image": "images/card-044.png"
   },
   {
     "id": 45,
@@ -491,8 +447,7 @@
     "set": "Astral Radiance",
     "number": "119/189",
     "type": "Normal",
-    "image": "images/card-045.webp",
-    "pokedex": 133
+    "image": "images/card-045.png"
   },
   {
     "id": 46,
@@ -502,8 +457,7 @@
     "set": "Journey Together",
     "number": "018/159",
     "type": "Grass",
-    "image": "images/card-046.webp",
-    "pokedex": 908
+    "image": "images/card-046.png"
   },
   {
     "id": 47,
@@ -513,8 +467,7 @@
     "set": "Destined Rivals",
     "number": "016/182",
     "type": "Grass",
-    "image": "images/card-047.webp",
-    "pokedex": 840
+    "image": "images/card-047.png"
   },
   {
     "id": 48,
@@ -524,8 +477,7 @@
     "set": "Destined Rivals",
     "number": "002/182",
     "type": "Grass",
-    "image": "images/card-048.webp",
-    "pokedex": 193
+    "image": "images/card-048.png"
   },
   {
     "id": 49,
@@ -535,8 +487,7 @@
     "set": "Destined Rivals",
     "number": "010/182",
     "type": "Grass",
-    "image": "images/card-049.webp",
-    "pokedex": 492
+    "image": "images/card-049.png"
   },
   {
     "id": 50,
@@ -546,8 +497,7 @@
     "set": "Journey Together",
     "number": "001/159",
     "type": "Grass",
-    "image": "images/card-050.webp",
-    "pokedex": 10
+    "image": "images/card-050.png"
   },
   {
     "id": 51,
@@ -557,8 +507,7 @@
     "set": "Journey Together",
     "number": "012/159",
     "type": "Grass",
-    "image": "images/card-051.webp",
-    "pokedex": 616
+    "image": "images/card-051.png"
   },
   {
     "id": 52,
@@ -568,8 +517,7 @@
     "set": "Journey Together",
     "number": "004/159",
     "type": "Grass",
-    "image": "images/card-052.webp",
-    "pokedex": 46
+    "image": "images/card-052.png"
   },
   {
     "id": 53,
@@ -579,8 +527,7 @@
     "set": "Astral Radiance",
     "number": "009/189",
     "type": "Grass",
-    "image": "images/card-053.webp",
-    "pokedex": 401
+    "image": "images/card-053.png"
   },
   {
     "id": 54,
@@ -590,8 +537,7 @@
     "set": "Silver Tempest",
     "number": "006/195",
     "type": "Grass",
-    "image": "images/card-054.webp",
-    "pokedex": 192
+    "image": "images/card-054.png"
   },
   {
     "id": 55,
@@ -601,8 +547,7 @@
     "set": "Astral Radiance",
     "number": "003/189",
     "type": "Grass",
-    "image": "images/card-055.webp",
-    "pokedex": 101
+    "image": "images/card-055.png"
   },
   {
     "id": 56,
@@ -612,8 +557,7 @@
     "set": "Astral Radiance",
     "number": "007/189",
     "type": "Grass",
-    "image": "images/card-056.webp",
-    "pokedex": 469
+    "image": "images/card-056.webp"
   },
   {
     "id": 57,
@@ -623,8 +567,7 @@
     "set": "Astral Radiance",
     "number": "019/189",
     "type": "Grass",
-    "image": "images/card-057.webp",
-    "pokedex": 722
+    "image": "images/card-057.webp"
   },
   {
     "id": 58,
@@ -634,8 +577,7 @@
     "set": "Astral Radiance",
     "number": "002/189",
     "type": "Grass",
-    "image": "images/card-058.webp",
-    "pokedex": 100
+    "image": "images/card-058.webp"
   },
   {
     "id": 59,
@@ -645,8 +587,7 @@
     "set": "Astral Radiance",
     "number": "009/189",
     "type": "Grass",
-    "image": "images/card-059.webp",
-    "pokedex": 401
+    "image": "images/card-059.webp"
   },
   {
     "id": 60,
@@ -656,8 +597,7 @@
     "set": "Astral Radiance",
     "number": "011/189",
     "type": "Grass",
-    "image": "images/card-060.webp",
-    "pokedex": 415
+    "image": "images/card-060.webp"
   },
   {
     "id": 61,
@@ -667,8 +607,7 @@
     "set": "Astral Radiance",
     "number": "006/189",
     "type": "Grass",
-    "image": "images/card-061.webp",
-    "pokedex": 193
+    "image": "images/card-061.webp"
   },
   {
     "id": 62,
@@ -678,8 +617,7 @@
     "set": "Astral Radiance",
     "number": "011/189",
     "type": "Grass",
-    "image": "images/card-062.webp",
-    "pokedex": 415
+    "image": "images/card-062.webp"
   },
   {
     "id": 63,
@@ -689,8 +627,7 @@
     "set": "Silver Tempest",
     "number": "013/195",
     "type": "Grass",
-    "image": "images/card-063.webp",
-    "pokedex": 632
+    "image": "images/card-063.webp"
   },
   {
     "id": 64,
@@ -700,8 +637,7 @@
     "set": "Astral Radiance",
     "number": "009/189",
     "type": "Grass",
-    "image": "images/card-064.webp",
-    "pokedex": 401
+    "image": "images/card-064.webp"
   },
   {
     "id": 65,
@@ -711,8 +647,7 @@
     "set": "Astral Radiance",
     "number": "004/189",
     "type": "Grass",
-    "image": "images/card-065.webp",
-    "pokedex": 123
+    "image": "images/card-065.webp"
   },
   {
     "id": 66,
@@ -722,8 +657,7 @@
     "set": "Astral Radiance",
     "number": "019/189",
     "type": "Grass",
-    "image": "images/card-066.webp",
-    "pokedex": 722
+    "image": "images/card-066.webp"
   },
   {
     "id": 67,
@@ -733,8 +667,7 @@
     "set": "Astral Radiance",
     "number": "008/189",
     "type": "Grass",
-    "image": "images/card-067.webp",
-    "pokedex": 214
+    "image": "images/card-067.webp"
   },
   {
     "id": 68,
@@ -744,8 +677,7 @@
     "set": "Guardians Rising",
     "number": "002/145",
     "type": "Grass",
-    "image": "images/card-068.webp",
-    "pokedex": 70
+    "image": "images/card-068.webp"
   },
   {
     "id": 69,
@@ -755,8 +687,7 @@
     "set": "Burning Shadows",
     "number": "011/147",
     "type": "Grass",
-    "image": "images/card-069.webp",
-    "pokedex": 214
+    "image": "images/card-069.webp"
   },
   {
     "id": 70,
@@ -766,8 +697,7 @@
     "set": "Undaunted",
     "number": "027/090",
     "type": "Grass",
-    "image": "images/card-070.webp",
-    "pokedex": 44
+    "image": "images/card-070.webp"
   },
   {
     "id": 71,
@@ -777,8 +707,7 @@
     "set": "Celestial Storm",
     "number": "015/168",
     "type": "Grass",
-    "image": "images/card-071.webp",
-    "pokedex": 763
+    "image": "images/card-071.webp"
   },
   {
     "id": 72,
@@ -788,8 +717,7 @@
     "set": "Sun & Moon",
     "number": "008/149",
     "type": "Grass",
-    "image": "images/card-072.webp",
-    "pokedex": 284
+    "image": "images/card-072.webp"
   },
   {
     "id": 73,
@@ -799,8 +727,7 @@
     "set": "BREAKthrough",
     "number": "003/162",
     "type": "Grass",
-    "image": "images/card-073.webp",
-    "pokedex": 127
+    "image": "images/card-073.webp"
   },
   {
     "id": 74,
@@ -810,8 +737,7 @@
     "set": "Sun & Moon",
     "number": "014/149",
     "type": "Grass",
-    "image": "images/card-074.webp",
-    "pokedex": 753
+    "image": "images/card-074.webp"
   },
   {
     "id": 75,
@@ -821,8 +747,7 @@
     "set": "Sun & Moon",
     "number": "005/149",
     "type": "Grass",
-    "image": "images/card-075.webp",
-    "pokedex": 47
+    "image": "images/card-075.webp"
   },
   {
     "id": 76,
@@ -832,8 +757,7 @@
     "set": "Roaring Skies",
     "number": "010/108",
     "type": "Grass",
-    "image": "images/card-076.webp",
-    "pokedex": 291
+    "image": "images/card-076.webp"
   },
   {
     "id": 77,
@@ -843,8 +767,7 @@
     "set": "XY Evolutions",
     "number": "007/108",
     "type": "Grass",
-    "image": "images/card-077.webp",
-    "pokedex": 15
+    "image": "images/card-077.webp"
   },
   {
     "id": 78,
@@ -854,8 +777,7 @@
     "set": "Steam Siege",
     "number": "002/114",
     "type": "Grass",
-    "image": "images/card-078.webp",
-    "pokedex": 465
+    "image": "images/card-078.webp"
   },
   {
     "id": 79,
@@ -865,8 +787,7 @@
     "set": "Burning Shadows",
     "number": "016/147",
     "type": "Grass",
-    "image": "images/card-079.webp",
-    "pokedex": 767
+    "image": "images/card-079.webp"
   },
   {
     "id": 80,
@@ -876,8 +797,7 @@
     "set": "Phantom Forces",
     "number": "002/119",
     "type": "Grass",
-    "image": "images/card-080.webp",
-    "pokedex": 49
+    "image": "images/card-080.webp"
   },
   {
     "id": 81,
@@ -887,8 +807,7 @@
     "set": "Guardians Rising",
     "number": "006/145",
     "type": "Grass",
-    "image": "images/card-081.webp",
-    "pokedex": 708
+    "image": "images/card-081.webp"
   },
   {
     "id": 82,
@@ -898,8 +817,7 @@
     "set": "Ancient Origins",
     "number": "004/098",
     "type": "Grass",
-    "image": "images/card-082.webp",
-    "pokedex": 182
+    "image": "images/card-082.webp"
   },
   {
     "id": 83,
@@ -909,8 +827,7 @@
     "set": "Sun & Moon",
     "number": "018/149",
     "type": "Grass",
-    "image": "images/card-083.webp",
-    "pokedex": 761
+    "image": "images/card-083.webp"
   },
   {
     "id": 84,
@@ -920,8 +837,7 @@
     "set": "Sun & Moon",
     "number": "008/149",
     "type": "Grass",
-    "image": "images/card-084.webp",
-    "pokedex": 284
+    "image": "images/card-084.webp"
   },
   {
     "id": 85,
@@ -931,8 +847,7 @@
     "set": "XY Evolutions",
     "number": "005/108",
     "type": "Grass",
-    "image": "images/card-085.webp",
-    "pokedex": 13
+    "image": "images/card-085.webp"
   },
   {
     "id": 86,
@@ -942,8 +857,7 @@
     "set": "Unverified",
     "number": "",
     "type": "Grass",
-    "image": "images/card-086.webp",
-    "pokedex": 44
+    "image": "images/card-086.webp"
   },
   {
     "id": 87,
@@ -953,8 +867,7 @@
     "set": "Unverified",
     "number": "",
     "type": "Grass",
-    "image": "images/card-087.webp",
-    "pokedex": 585
+    "image": "images/card-087.webp"
   },
   {
     "id": 88,
@@ -964,8 +877,7 @@
     "set": "Unverified",
     "number": "",
     "type": "Grass",
-    "image": "images/card-088.webp",
-    "pokedex": 268
+    "image": "images/card-088.webp"
   },
   {
     "id": 89,
@@ -975,8 +887,7 @@
     "set": "Unverified",
     "number": "",
     "type": "Grass",
-    "image": "images/card-089.webp",
-    "pokedex": 290
+    "image": "images/card-089.webp"
   },
   {
     "id": 90,
@@ -986,8 +897,7 @@
     "set": "Unverified",
     "number": "",
     "type": "Grass",
-    "image": "images/card-090.webp",
-    "pokedex": 11
+    "image": "images/card-090.webp"
   },
   {
     "id": 91,
@@ -997,8 +907,7 @@
     "set": "Unverified",
     "number": "",
     "type": "Grass",
-    "image": "images/card-091.webp",
-    "pokedex": 114
+    "image": "images/card-091.webp"
   },
   {
     "id": 92,
@@ -1008,8 +917,7 @@
     "set": "Unverified",
     "number": "",
     "type": "Grass",
-    "image": "images/card-092.webp",
-    "pokedex": 114
+    "image": "images/card-092.webp"
   },
   {
     "id": 93,
@@ -1019,8 +927,7 @@
     "set": "Unverified",
     "number": "",
     "type": "Grass",
-    "image": "images/card-093.webp",
-    "pokedex": 357
+    "image": "images/card-093.webp"
   },
   {
     "id": 94,
@@ -1030,8 +937,7 @@
     "set": "Unverified",
     "number": "",
     "type": "Grass",
-    "image": "images/card-094.webp",
-    "pokedex": 10
+    "image": "images/card-094.webp"
   },
   {
     "id": 95,
@@ -1041,8 +947,7 @@
     "set": "Unverified",
     "number": "",
     "type": "Grass",
-    "image": "images/card-095.webp",
-    "pokedex": 168
+    "image": "images/card-095.webp"
   },
   {
     "id": 96,
@@ -1052,8 +957,7 @@
     "set": "Emerging Powers",
     "number": "011/098",
     "type": "Grass",
-    "image": "images/card-096.webp",
-    "pokedex": 585
+    "image": "images/card-096.webp"
   },
   {
     "id": 97,
@@ -1063,8 +967,7 @@
     "set": "Ancient Origins",
     "number": "003/098",
     "type": "Grass",
-    "image": "images/card-097.webp",
-    "pokedex": 45
+    "image": "images/card-097.webp"
   },
   {
     "id": 98,
@@ -1074,8 +977,7 @@
     "set": "Steam Siege",
     "number": "003/114",
     "type": "Grass",
-    "image": "images/card-098.webp",
-    "pokedex": 187
+    "image": "images/card-098.webp"
   },
   {
     "id": 99,
@@ -1085,8 +987,7 @@
     "set": "Platinum",
     "number": "043/127",
     "type": "Grass",
-    "image": "images/card-099.webp",
-    "pokedex": 455
+    "image": "images/card-099.webp"
   },
   {
     "id": 100,
@@ -1096,8 +997,7 @@
     "set": "Phantom Forces",
     "number": "001/119",
     "type": "Grass",
-    "image": "images/card-100.webp",
-    "pokedex": 48
+    "image": "images/card-100.webp"
   },
   {
     "id": 101,
@@ -1107,8 +1007,7 @@
     "set": "Destined Rivals",
     "number": "056/182",
     "type": "Water",
-    "image": "images/card-101.webp",
-    "pokedex": 368
+    "image": "images/card-101.webp"
   },
   {
     "id": 102,
@@ -1118,8 +1017,7 @@
     "set": "Destined Rivals",
     "number": "056/182",
     "type": "Water",
-    "image": "images/card-102.webp",
-    "pokedex": 368
+    "image": "images/card-102.webp"
   },
   {
     "id": 103,
@@ -1129,8 +1027,7 @@
     "set": "Destined Rivals",
     "number": "053/182",
     "type": "Water",
-    "image": "images/card-103.webp",
-    "pokedex": 350
+    "image": "images/card-103.webp"
   },
   {
     "id": 104,
@@ -1140,8 +1037,7 @@
     "set": "Destined Rivals",
     "number": "052/182",
     "type": "Water",
-    "image": "images/card-104.webp",
-    "pokedex": 349
+    "image": "images/card-104.webp"
   },
   {
     "id": 105,
@@ -1151,8 +1047,7 @@
     "set": "Destined Rivals",
     "number": "064/182",
     "type": "Water",
-    "image": "images/card-105.webp",
-    "pokedex": 974
+    "image": "images/card-105.webp"
   },
   {
     "id": 106,
@@ -1162,8 +1057,7 @@
     "set": "Destined Rivals",
     "number": "050/182",
     "type": "Water",
-    "image": "images/card-106.webp",
-    "pokedex": 131
+    "image": "images/card-106.webp"
   },
   {
     "id": 107,
@@ -1173,8 +1067,7 @@
     "set": "Destined Rivals",
     "number": "060/182",
     "type": "Water",
-    "image": "images/card-107.webp",
-    "pokedex": 460
+    "image": "images/card-107.webp"
   },
   {
     "id": 108,
@@ -1184,8 +1077,7 @@
     "set": "Journey Together",
     "number": "038/159",
     "type": "Water",
-    "image": "images/card-108.webp",
-    "pokedex": 278
+    "image": "images/card-108.webp"
   },
   {
     "id": 109,
@@ -1195,8 +1087,7 @@
     "set": "Fossil",
     "number": "051/062",
     "type": "Water",
-    "image": "images/card-109.webp",
-    "pokedex": 98
+    "image": "images/card-109.webp"
   },
   {
     "id": 110,
@@ -1206,8 +1097,7 @@
     "set": "Team Rocket",
     "number": "065/082",
     "type": "Water",
-    "image": "images/card-110.webp",
-    "pokedex": 54
+    "image": "images/card-110.webp"
   },
   {
     "id": 111,
@@ -1217,8 +1107,7 @@
     "set": "Chilling Reign",
     "number": "042/198",
     "type": "Water",
-    "image": "images/card-111.webp",
-    "pokedex": 817
+    "image": "images/card-111.webp"
   },
   {
     "id": 112,
@@ -1228,8 +1117,7 @@
     "set": "Boundaries Crossed",
     "number": "040/149",
     "type": "Water",
-    "image": "images/card-112.webp",
-    "pokedex": 502
+    "image": "images/card-112.webp"
   },
   {
     "id": 113,
@@ -1239,8 +1127,7 @@
     "set": "Chilling Reign",
     "number": "030/198",
     "type": "Water",
-    "image": "images/card-113.webp",
-    "pokedex": 215
+    "image": "images/card-113.webp"
   },
   {
     "id": 114,
@@ -1250,8 +1137,7 @@
     "set": "Sun & Moon",
     "number": "037/149",
     "type": "Water",
-    "image": "images/card-114.webp",
-    "pokedex": 278
+    "image": "images/card-114.webp"
   },
   {
     "id": 115,
@@ -1261,8 +1147,7 @@
     "set": "Evolutions",
     "number": "024/108",
     "type": "Water",
-    "image": "images/card-115.webp",
-    "pokedex": 61
+    "image": "images/card-115.webp"
   },
   {
     "id": 116,
@@ -1272,8 +1157,7 @@
     "set": "Burning Shadows",
     "number": "032/147",
     "type": "Water",
-    "image": "images/card-116.webp",
-    "pokedex": 129
+    "image": "images/card-116.webp"
   },
   {
     "id": 117,
@@ -1283,8 +1167,7 @@
     "set": "Steam Siege",
     "number": "028/114",
     "type": "Water",
-    "image": "images/card-117.webp",
-    "pokedex": 422
+    "image": "images/card-117.webp"
   },
   {
     "id": 118,
@@ -1294,8 +1177,7 @@
     "set": "Flashfire",
     "number": "022/106",
     "type": "Water",
-    "image": "images/card-118.webp",
-    "pokedex": 349
+    "image": "images/card-118.webp"
   },
   {
     "id": 119,
@@ -1305,8 +1187,7 @@
     "set": "Secret Wonders",
     "number": "047/132",
     "type": "Water",
-    "image": "images/card-119.webp",
-    "pokedex": 91
+    "image": "images/card-119.webp"
   },
   {
     "id": 120,
@@ -1316,8 +1197,7 @@
     "set": "Sun & Moon",
     "number": "047/149",
     "type": "Water",
-    "image": "images/card-120.webp",
-    "pokedex": 771
+    "image": "images/card-120.webp"
   },
   {
     "id": 121,
@@ -1327,8 +1207,7 @@
     "set": "Unverified",
     "number": "Unverified",
     "type": "Water",
-    "image": "images/card-121.webp",
-    "pokedex": 501
+    "image": "images/card-121.webp"
   },
   {
     "id": 122,
@@ -1338,8 +1217,7 @@
     "set": "Unverified",
     "number": "Unverified",
     "type": "Water",
-    "image": "images/card-122.webp",
-    "pokedex": 502
+    "image": "images/card-122.webp"
   },
   {
     "id": 123,
@@ -1349,8 +1227,7 @@
     "set": "Unverified",
     "number": "Unverified",
     "type": "Water",
-    "image": "images/card-123.webp",
-    "pokedex": 7
+    "image": "images/card-123.webp"
   },
   {
     "id": 124,
@@ -1360,8 +1237,7 @@
     "set": "Unverified",
     "number": "Unverified",
     "type": "Water",
-    "image": "images/card-124.webp",
-    "pokedex": 656
+    "image": "images/card-124.webp"
   },
   {
     "id": 125,
@@ -1371,8 +1247,7 @@
     "set": "Unverified",
     "number": "Unverified",
     "type": "Water",
-    "image": "images/card-125.webp",
-    "pokedex": 592
+    "image": "images/card-125.webp"
   },
   {
     "id": 126,
@@ -1382,8 +1257,7 @@
     "set": "Unverified",
     "number": "Unverified",
     "type": "Water",
-    "image": "images/card-126.webp",
-    "pokedex": 60
+    "image": "images/card-126.webp"
   },
   {
     "id": 127,
@@ -1393,8 +1267,7 @@
     "set": "Unverified",
     "number": "Unverified",
     "type": "Water",
-    "image": "images/card-127.webp",
-    "pokedex": 456
+    "image": "images/card-127.webp"
   },
   {
     "id": 128,
@@ -1404,8 +1277,7 @@
     "set": "Unverified",
     "number": "Unverified",
     "type": "Water",
-    "image": "images/card-128.webp",
-    "pokedex": 657
+    "image": "images/card-128.webp"
   },
   {
     "id": 129,
@@ -1415,8 +1287,7 @@
     "set": "Unverified",
     "number": "Unverified",
     "type": "Water",
-    "image": "images/card-129.webp",
-    "pokedex": 320
+    "image": "images/card-129.webp"
   },
   {
     "id": 130,
@@ -1426,8 +1297,7 @@
     "set": "Unverified",
     "number": "Unverified",
     "type": "Water",
-    "image": "images/card-130.webp",
-    "pokedex": 658
+    "image": "images/card-130.webp"
   },
   {
     "id": 131,
@@ -1437,8 +1307,7 @@
     "set": "Boundaries Crossed",
     "number": "041/149",
     "type": "Water",
-    "image": "images/card-131.webp",
-    "pokedex": 503
+    "image": "images/card-131.webp"
   },
   {
     "id": 132,
@@ -1448,8 +1317,7 @@
     "set": "BREAKpoint",
     "number": "033/122",
     "type": "Water",
-    "image": "images/card-132.webp",
-    "pokedex": 535
+    "image": "images/card-132.webp"
   },
   {
     "id": 133,
@@ -1459,8 +1327,7 @@
     "set": "BREAKpoint",
     "number": "035/122",
     "type": "Water",
-    "image": "images/card-133.webp",
-    "pokedex": 537
+    "image": "images/card-133.webp"
   },
   {
     "id": 134,
@@ -1470,8 +1337,7 @@
     "set": "Guardians Rising",
     "number": "021/145",
     "type": "Water",
-    "image": "images/card-134.webp",
-    "pokedex": 37
+    "image": "images/card-134.webp"
   },
   {
     "id": 135,
@@ -1481,282 +1347,656 @@
     "set": "BREAKpoint",
     "number": "024/122",
     "type": "Water",
-    "image": "images/card-135.webp",
-    "pokedex": 91
+    "image": "images/card-135.webp"
   },
   {
     "id": 136,
-    "name": "Milotic",
-    "hp": 80,
-    "type": "Water",
-    "set": "Supreme Victors",
-    "number": "SH7",
-    "finish": "Special Shiny",
-    "image": "images/card-136.webp",
-    "pokedex": 350
+    "name": "Blissey",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-136.webp"
   },
   {
     "id": 137,
-    "name": "Brionne",
-    "hp": 90,
-    "type": "Water",
-    "set": "Sun & Moon",
-    "number": "040/149",
-    "finish": "Regular",
-    "image": "images/card-137.webp",
-    "pokedex": 729
+    "name": "Komala",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-137.webp"
   },
   {
     "id": 138,
-    "name": "Clauncher",
-    "hp": 60,
-    "type": "Water",
-    "set": "Steam Siege",
-    "number": "033/114",
-    "finish": "Regular",
-    "image": "images/card-138.webp",
-    "pokedex": 692
+    "name": "Eevee",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-138.webp"
   },
   {
     "id": 139,
-    "name": "Psyduck",
-    "hp": 70,
-    "type": "Water",
-    "set": "Sun & Moon",
-    "number": "028/149",
-    "finish": "Regular",
-    "image": "images/card-139.webp",
-    "pokedex": 54
+    "name": "Hoothoot",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-139.webp"
   },
   {
     "id": 140,
-    "name": "Frogadier",
-    "hp": 70,
-    "type": "Water",
-    "set": "BREAKthrough",
-    "number": "047/162",
-    "finish": "Regular",
-    "image": "images/card-140.webp",
-    "pokedex": 657
+    "name": "Meowth",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-140.webp"
   },
   {
     "id": 141,
-    "name": "Huntail",
-    "hp": 90,
-    "type": "Water",
-    "set": "Legends Awakened",
-    "number": "042/146",
-    "finish": "Regular",
-    "image": "images/card-141.webp",
-    "pokedex": 367
+    "name": "Hawlucha",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-141.webp"
   },
   {
     "id": 142,
-    "name": "Greninja",
-    "hp": 130,
-    "type": "Water",
-    "set": "XY",
-    "number": "041/146",
-    "finish": "Holo",
-    "image": "images/card-142.webp",
-    "pokedex": 658
+    "name": "Teddiursa",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-142.webp"
   },
   {
     "id": 143,
-    "name": "Slowking",
-    "hp": 100,
-    "type": "Water",
-    "set": "BREAKpoint",
-    "number": "021/122",
-    "finish": "Holo",
-    "image": "images/card-143.webp",
-    "pokedex": 199
+    "name": "Altaria",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-143.webp"
   },
   {
     "id": 144,
-    "name": "Politoed",
-    "hp": 130,
-    "type": "Water",
-    "set": "Furious Fists",
-    "number": "018/111",
-    "finish": "Holo",
-    "image": "images/card-144.webp",
-    "pokedex": 186
+    "name": "Bidoof",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-144.webp"
   },
   {
     "id": 145,
-    "name": "Poliwrath",
-    "hp": 140,
-    "type": "Water",
-    "set": "Evolutions",
-    "number": "025/108",
-    "finish": "Reverse Holo",
-    "image": "images/card-145.webp",
-    "pokedex": 62
+    "name": "Starly",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-145.webp"
   },
   {
     "id": 146,
-    "name": "Oshawott",
-    "hp": 70,
-    "type": "Water",
-    "set": "Astral Radiance",
-    "number": "041/189",
-    "finish": "Regular",
-    "image": "images/card-146.webp",
-    "pokedex": 501
+    "name": "Spearow",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-146.webp"
   },
   {
     "id": 147,
-    "name": "Dewott",
-    "hp": 90,
-    "type": "Water",
-    "set": "Astral Radiance",
-    "number": "042/189",
-    "finish": "Regular",
-    "image": "images/card-147.webp",
-    "pokedex": 502
+    "name": "Pidove",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-147.webp"
   },
   {
     "id": 148,
-    "name": "Mantine",
-    "hp": 110,
-    "type": "Water",
-    "set": "Astral Radiance",
-    "number": "034/189",
-    "finish": "Regular",
-    "image": "images/card-148.webp",
-    "pokedex": 226
+    "name": "Eevee",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-148.webp"
   },
   {
     "id": 149,
-    "name": "Whiscash",
-    "hp": 120,
-    "type": "Water",
-    "set": "Astral Radiance",
-    "number": "036/189",
-    "finish": "Regular",
-    "image": "images/card-149.webp",
-    "pokedex": 340
+    "name": "Fletchling",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-149.webp"
   },
   {
     "id": 150,
-    "name": "Piloswine",
-    "hp": 90,
-    "type": "Water",
-    "set": "Astral Radiance",
-    "number": "032/189",
-    "finish": "Regular",
-    "image": "images/card-150.webp",
-    "pokedex": 221
+    "name": "Rattata",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-150.webp"
   },
   {
     "id": 151,
-    "name": "Wailord",
-    "hp": 200,
-    "type": "Water",
-    "set": "Guardians Rising",
-    "number": "030/145",
-    "finish": "Reverse Holo",
-    "image": "images/card-151.webp",
-    "pokedex": 321
+    "name": "Pidgey",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-151.webp"
   },
   {
     "id": 152,
-    "name": "Starmie",
-    "hp": 90,
-    "type": "Water",
-    "set": "Evolutions",
-    "number": "031/108",
-    "finish": "Regular",
-    "image": "images/card-152.webp",
-    "pokedex": 121
+    "name": "Golbat",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-152.webp"
   },
   {
     "id": 153,
-    "name": "Hisuian Basculin",
-    "hp": 50,
-    "type": "Water",
-    "set": "Astral Radiance",
-    "number": "043/189",
-    "finish": "Regular",
-    "image": "images/card-153.webp",
-    "pokedex": 550
+    "name": "Lopunny",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-153.webp"
   },
   {
     "id": 154,
-    "name": "Whiscash",
-    "hp": 120,
-    "type": "Water",
-    "set": "Astral Radiance",
-    "number": "036/189",
-    "finish": "Regular",
-    "image": "images/card-154.webp",
-    "pokedex": 340
+    "name": "Fletchinder",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-154.webp"
   },
   {
     "id": 155,
-    "name": "Psyduck",
-    "hp": 60,
-    "type": "Water",
-    "set": "Astral Radiance",
-    "number": "028/189",
-    "finish": "Regular",
-    "image": "images/card-155.webp",
-    "pokedex": 54
+    "name": "Stufful",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-155.webp"
   },
   {
     "id": 156,
-    "name": "Staryu",
-    "hp": 60,
-    "type": "Water",
-    "set": "Evolutions",
-    "number": "030/108",
-    "finish": "Regular",
-    "image": "images/card-156.webp",
-    "pokedex": 120
+    "name": "Spearow",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-156.webp"
   },
   {
     "id": 157,
-    "name": "Psyduck",
-    "hp": 60,
-    "type": "Water",
-    "set": "Astral Radiance",
-    "number": "028/189",
-    "finish": "Regular",
-    "image": "images/card-157.webp",
-    "pokedex": 54
+    "name": "Herdier",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-157.webp"
   },
   {
     "id": 158,
-    "name": "Oshawott",
-    "hp": 70,
-    "type": "Water",
-    "set": "Astral Radiance",
-    "number": "041/189",
-    "finish": "Regular",
-    "image": "images/card-158.webp",
-    "pokedex": 501
+    "name": "Bewear",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-158.webp"
   },
   {
     "id": 159,
-    "name": "Palpitoad",
-    "hp": 90,
-    "type": "Water",
-    "set": "BREAKpoint",
-    "number": "034/122",
-    "finish": "Regular",
-    "image": "images/card-159.webp",
-    "pokedex": 536
+    "name": "Pidgeotto",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-159.webp"
   },
   {
     "id": 160,
-    "name": "Barboach",
+    "name": "Pyroar",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-160.webp"
+  },
+  {
+    "id": 161,
+    "name": "Pidgey",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-161.webp"
+  },
+  {
+    "id": 162,
+    "name": "Persian",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-162.webp"
+  },
+  {
+    "id": 163,
+    "name": "Furfrou",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-163.webp"
+  },
+  {
+    "id": 164,
+    "name": "Bibarel",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-164.webp"
+  },
+  {
+    "id": 165,
+    "name": "Meowth",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-165.webp"
+  },
+  {
+    "id": 166,
+    "name": "Swablu",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-166.webp"
+  },
+  {
+    "id": 167,
+    "name": "Doduo",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-167.webp"
+  },
+  {
+    "id": 168,
+    "name": "Noibat",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-168.webp"
+  },
+  {
+    "id": 169,
+    "name": "Wooloo",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-169.webp"
+  },
+  {
+    "id": 170,
+    "name": "Dunsparce",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Normal",
+    "image": "images/card-170.webp"
+  },
+  {
+    "id": 171,
+    "name": "Drifloon",
     "hp": 60,
-    "type": "Water",
-    "set": "Astral Radiance",
-    "number": "035/189",
     "finish": "Regular",
-    "image": "images/card-160.webp",
-    "pokedex": 339
+    "set": "Astral Radiance",
+    "number": "063/189",
+    "type": "Psychic",
+    "image": "images/card-171.webp"
+  },
+  {
+    "id": 172,
+    "name": "Hypno",
+    "hp": 90,
+    "finish": "Regular",
+    "set": "BREAKpoint",
+    "number": "51/122",
+    "type": "Psychic",
+    "image": "images/card-172.webp"
+  },
+  {
+    "id": 173,
+    "name": "Drifloon",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "063/189",
+    "type": "Psychic",
+    "image": "images/card-173.webp"
+  },
+  {
+    "id": 174,
+    "name": "Misdreavus",
+    "hp": 60,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "058/189",
+    "type": "Psychic",
+    "image": "images/card-174.webp"
+  },
+  {
+    "id": 175,
+    "name": "Chimecho",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Psychic",
+    "image": "images/card-175.webp"
+  },
+  {
+    "id": 176,
+    "name": "Ralts",
+    "hp": 70,
+    "finish": "Regular",
+    "set": "Astral Radiance",
+    "number": "060/189",
+    "type": "Psychic",
+    "image": "images/card-176.webp"
+  },
+  {
+    "id": 177,
+    "name": "Inkay",
+    "hp": 50,
+    "finish": "Reverse Holo",
+    "set": "Chilling Reign",
+    "number": "069/198",
+    "type": "Psychic",
+    "image": "images/card-177.webp"
+  },
+  {
+    "id": 178,
+    "name": "Banette",
+    "hp": 80,
+    "finish": "Reverse Holo",
+    "set": "Roaring Skies",
+    "number": "31/108",
+    "type": "Psychic",
+    "image": "images/card-178.webp"
+  },
+  {
+    "id": 179,
+    "name": "Crobat",
+    "hp": 130,
+    "finish": "Holo",
+    "set": "Phantom Forces",
+    "number": "33/119",
+    "type": "Psychic",
+    "image": "images/card-179.webp"
+  },
+  {
+    "id": 180,
+    "name": "Chimecho",
+    "hp": 70,
+    "finish": "Regular",
+    "set": "Silver Tempest",
+    "number": "074/195",
+    "type": "Psychic",
+    "image": "images/card-180.webp"
+  },
+  {
+    "id": 181,
+    "name": "Natu",
+    "hp": 40,
+    "finish": "Regular",
+    "set": "Roaring Skies",
+    "number": "28/108",
+    "type": "Psychic",
+    "image": "images/card-181.webp"
+  },
+  {
+    "id": 182,
+    "name": "Drifblim",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Psychic",
+    "image": "images/card-182.webp"
+  },
+  {
+    "id": 183,
+    "name": "Chandelure",
+    "hp": null,
+    "finish": "Holo",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Psychic",
+    "image": "images/card-183.webp"
+  },
+  {
+    "id": 184,
+    "name": "Yamask",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Psychic",
+    "image": "images/card-184.webp"
+  },
+  {
+    "id": 185,
+    "name": "Drifblim",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Psychic",
+    "image": "images/card-185.webp"
+  },
+  {
+    "id": 186,
+    "name": "Croagunk",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Psychic",
+    "image": "images/card-186.webp"
+  },
+  {
+    "id": 187,
+    "name": "Misdreavus",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Psychic",
+    "image": "images/card-187.webp"
+  },
+  {
+    "id": 188,
+    "name": "Meowstic",
+    "hp": null,
+    "finish": "Reverse Holo",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Psychic",
+    "image": "images/card-188.webp"
+  },
+  {
+    "id": 189,
+    "name": "Hypno",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Psychic",
+    "image": "images/card-189.webp"
+  },
+  {
+    "id": 190,
+    "name": "Ralts",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Psychic",
+    "image": "images/card-190.webp"
+  },
+  {
+    "id": 191,
+    "name": "Banette",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Psychic",
+    "image": "images/card-191.webp"
+  },
+  {
+    "id": 192,
+    "name": "Lampent",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Psychic",
+    "image": "images/card-192.webp"
+  },
+  {
+    "id": 193,
+    "name": "Inkay",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Psychic",
+    "image": "images/card-193.webp"
+  },
+  {
+    "id": 194,
+    "name": "Mewtwo",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Psychic",
+    "image": "images/card-194.webp"
+  },
+  {
+    "id": 195,
+    "name": "Drifloon",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Psychic",
+    "image": "images/card-195.webp"
+  },
+  {
+    "id": 196,
+    "name": "Banette",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Psychic",
+    "image": "images/card-196.webp"
+  },
+  {
+    "id": 197,
+    "name": "Lampent",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Psychic",
+    "image": "images/card-197.webp"
+  },
+  {
+    "id": 198,
+    "name": "Ralts",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Psychic",
+    "image": "images/card-198.webp"
+  },
+  {
+    "id": 199,
+    "name": "Mewtwo",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Psychic",
+    "image": "images/card-199.webp"
+  },
+  {
+    "id": 200,
+    "name": "Drifloon",
+    "hp": null,
+    "finish": "Unverified",
+    "set": "Unverified",
+    "number": "Unverified",
+    "type": "Psychic",
+    "image": "images/card-200.webp"
   }
 ]
