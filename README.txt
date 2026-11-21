@@ -1,1 +1,1 @@
-WEBSITE-ONLY UPDATE. Upload index.html to the root of your existing GitHub repository and replace the old index.html. Keep your existing cards.json and images/ folder unchanged. Includes black theme, cover, Pokédex-first sorting, page jump, arrow-key navigation, and swipe.
+Electric batch #211–220. Add the JSON objects from electric_211-220.json to your existing cards.json array (do not replace the old cards). Copy images/ to your website images/ folder. Photos cropped approximately to the card edges. Pikachu Libre is Holo.
