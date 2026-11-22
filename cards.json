@@ -2198,5 +2198,55 @@
     "number": "30/30",
     "type": "Electric",
     "image": "images/card-220.webp"
+  },
+  {
+    "id": 221,
+    "name": "Emolga",
+    "hp": 70,
+    "finish": "Regular",
+    "set": "Silver Tempest",
+    "number": "054/195",
+    "type": "Electric",
+    "image": "images/card-221.webp"
+  },
+  {
+    "id": 222,
+    "name": "Rotom",
+    "hp": 80,
+    "finish": "Regular",
+    "set": "Silver Tempest",
+    "number": "053/195",
+    "type": "Electric",
+    "image": "images/card-222.webp"
+  },
+  {
+    "id": 223,
+    "name": "Emolga",
+    "hp": 70,
+    "finish": "Regular",
+    "set": "Silver Tempest",
+    "number": "054/195",
+    "type": "Electric",
+    "image": "images/card-223.webp"
+  },
+  {
+    "id": 224,
+    "name": "Stunfisk",
+    "hp": 110,
+    "finish": "Regular",
+    "set": "Silver Tempest",
+    "number": "055/195",
+    "type": "Electric",
+    "image": "images/card-224.webp"
+  },
+  {
+    "id": 225,
+    "name": "Galvantula",
+    "hp": 90,
+    "finish": "Regular",
+    "set": "Steam Siege",
+    "number": "042/114",
+    "type": "Electric/Grass",
+    "image": "images/card-225.webp"
   }
 ]
