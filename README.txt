@@ -1,8 +1,13 @@
-Zar’s Pokémon Collection — Electric final update (cards 221–225)
+ZAR’S POKÉMON COLLECTION — RARITY UPDATE (225 CARDS)
 
-Upload index.html and cards.json to the repository root, replacing the existing versions.
-Upload the five files from images/ into your repository images/ folder.
-Do not delete existing card images.
+Upload these TWO files to the ROOT of your existing GitHub repository, replacing the old versions:
+- index.html
+- cards.json
 
-Total: 225 cards. Electric: 25 cards (including dual-type Galvantula).
-Both Emolga photos are kept as distinct physical copies.
+Do not delete or replace the images/ folder. All 225 existing images remain untouched.
+
+Adds rarity filtering, Common-to-Rarest and Rarest-to-Common sorting, and rarity in the card viewer. National Pokédex remains the default. Finish stays separate.
+
+Only Galvantula #225 is marked Rare from the confirmed star symbol. The other 224 cards are marked Unverified rather than guessing their rarities. As you identify rarities, replace 'Unverified' in each card's rarity field with the appropriate guide label. Unverified cards sort after verified rarities in both sort directions.
+
+Secret Rare is a collector-number classification, not an independent printed rarity; it can be added as a separate flag later.
