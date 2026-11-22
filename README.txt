@@ -1,1 +1,1 @@
-Electric batch #211–220. Add the JSON objects from electric_211-220.json to your existing cards.json array (do not replace the old cards). Copy images/ to your website images/ folder. Photos cropped approximately to the card edges. Pikachu Libre is Holo.
+220-card complete GitHub Pages site. Upload index.html, cards.json, .nojekyll, and the images folder to your repository root. Replace old files. Preserve the images folder structure. GitHub Pages: main branch / (root).
